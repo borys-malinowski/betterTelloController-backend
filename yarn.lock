@@ -386,10 +386,10 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
   integrity sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==
 
-"@hookstate/core@^4.0.0-rc.3":
-  version "4.0.0-rc8"
-  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-4.0.0-rc8.tgz#2014403643fa4508493fb7fefe7f390e32b5f9a0"
-  integrity sha512-sm5eoi3H9C/U5CRF5JBPWRMW3Q/tiQoGEeSC3TBnBgE9tK/UgADZwqghh0P1jXL/7EnixaOTu2+3zoC1sLslxw==
+"@hookstate/core@^4.0.0-rc10":
+  version "4.0.0-rc10"
+  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-4.0.0-rc10.tgz#0271613e1d009a6d88495a2d605930eb2443ce15"
+  integrity sha512-9PJOWItbz85UlNBkpyXiS9MVekYb2+MwQti8uRU5LW4nNu2PX7A3rMl+Hl06s/XFJgL7tJVTInXZxAJPJKQ2yw==
 
 "@isaacs/string-locale-compare@^1.1.0":
   version "1.1.0"
