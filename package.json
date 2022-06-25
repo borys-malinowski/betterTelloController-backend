@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hookstate/core": "^4.0.0-rc.3",
+    "@hookstate/core": "^4.0.0-rc10",
     "cors": "^2.8.5",
     "discord-api-types": "^0.33.4",
     "discord.js": "^13.8.0",
