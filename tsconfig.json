@@ -48,7 +48,9 @@
       "~tello/*": ["tello/*"],
       "~tello": ["tello/index"],
       "~wifi/*": ["wifi/*"],
-      "~wifi": ["wifi/index"]
+      "~wifi": ["wifi/index"],
+      "~types/*": ["types/*"],
+      "~types": ["types/index"]
     },
     "plugins": [
       {
