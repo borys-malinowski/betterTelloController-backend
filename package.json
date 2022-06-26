@@ -9,7 +9,8 @@
     "test": "jest --coverage -i",
     "prepare": "husky install",
     "lint": "prettier --write \"./**/*.{js,ts,json,yaml,yml}\"",
-    "build": "cross-env TS_NODE_PROJECT=tsconfig.node.json webpack"
+    "build": "cross-env TS_NODE_PROJECT=tsconfig.node.json webpack",
+    "build-start": "yarn run build && yarn run start"
   },
   "author": "",
   "license": "ISC",
@@ -44,7 +45,6 @@
     "jest": "^28.1.1",
     "jest-extended": "^2.0.0",
     "nodemon": "^2.0.18",
-    "npm": "^8.13.1",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
     "source-map-support": "^0.5.21",
