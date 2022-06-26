@@ -1,11 +1,21 @@
-import { Configuration } from "webpack";
+import { Configuration, DefinePlugin } from "webpack";
 import { join } from "path";
+import nodeExternals from "webpack-node-externals";
+import "dotenv/config";
 
 const config: Configuration = {
   entry: "./src/index.ts",
   output: { path: join(process.cwd(), "dist"), filename: "index.js" },
   target: "node",
-  optimization: { usedExports: false },
+  plugins: [
+    new DefinePlugin({
+      "process.env.DISCORD_BOT_TOKEN": JSON.stringify(
+        process.env.DISCORD_BOT_TOKEN,
+      ),
+    }),
+  ],
+  externals: [nodeExternals()],
+  optimization: { usedExports: true },
   resolve: {
     extensions: [".js", ".ts", ".tsx", ".jsx", ".mjs", ".wasm", ".json"],
     alias: {
@@ -16,6 +26,11 @@ const config: Configuration = {
       "~wifi": join(process.cwd(), "src", "wifi"),
     },
   },
+  experiments: {
+    topLevelAwait: true,
+  },
+  mode: "production",
+  devtool: "source-map",
   module: {
     rules: [
       {
