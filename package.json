@@ -17,7 +17,7 @@
   "dependencies": {
     "@hookstate/core": "^4.0.0-rc19",
     "cors": "^2.8.5",
-    "discord-api-types": "^0.37.0",
+    "discord-api-types": "^0.37.1",
     "discord.js": "^13.8.1",
     "dotenv": "^16.0.1",
     "express": "^4.16.4",
