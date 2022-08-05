@@ -402,10 +402,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@hookstate/core@^4.0.0-rc18":
-  version "4.0.0-rc18"
-  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-4.0.0-rc18.tgz#f0bb0581f4e98d2d5962a43542184e73bd3cb53b"
-  integrity sha512-klGoRDRk7sjLAjwR7WWUAdQEBGzNUh0YHC2fq/ln9PDdxSrriDKEqTVerEoSBFsRWpR9L3d+S6VJo5TgeQtYmw==
+"@hookstate/core@^4.0.0-rc19":
+  version "4.0.0-rc19"
+  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-4.0.0-rc19.tgz#55aa318b9423b5e32e34208eba4b3af2ac7706d5"
+  integrity sha512-xU9PMn7Ox5AMFt+3oHJOoO7tz5JRifm5SddCzJpR4LHCq7fm+rnYV6jQscXClip9ynfxHwR9DeWhfNLl+oc03g==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
