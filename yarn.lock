@@ -4164,10 +4164,10 @@ typescript-transform-paths@^3.3.1:
   dependencies:
     minimatch "^3.0.4"
 
-typescript@^4.8.0-dev.20220804:
-  version "4.8.0-dev.20220804"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.0-dev.20220804.tgz#0db1a45ccb71ce1c298750d8a60bd9383d3d5ddb"
-  integrity sha512-N5tKzl5WE31E6YHL3nlYls2zCxkCfax3gb3zKKcrRJXEzfPRFodE0xzkIgGJIshTLQnF/uwiN2Nc8TG50aE9Hg==
+typescript@^4.8.0-dev.20220807:
+  version "4.8.0-dev.20220807"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.0-dev.20220807.tgz#8827558040e0a80197ec19f0e653d619d93c358f"
+  integrity sha512-IKavUdg6DoklEaP1ikTPRa4i+BgFgWqt0IqttrDGADpSoqwvMlVFo8A24996T58PZI/GGKT5j3og/dLPo/oIPg==
 
 typical@^4.0.0:
   version "4.0.0"
