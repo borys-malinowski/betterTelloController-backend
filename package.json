@@ -18,7 +18,7 @@
     "@hookstate/core": "^4.0.0-rc21",
     "cors": "^2.8.5",
     "discord-api-types": "^0.37.3",
-    "discord.js": "^13.8.1",
+    "discord.js": "^14.2.0",
     "dotenv": "^16.0.1",
     "express": "^4.16.4",
     "lodash": "^4.17.11",
