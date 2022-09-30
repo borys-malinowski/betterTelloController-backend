@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "discord-api-types": "^0.37.11",
     "discord.js": "^13.8.1",
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "express": "^4.16.4",
     "lodash": "^4.17.11",
     "node-wifi": "^2.0.16",
