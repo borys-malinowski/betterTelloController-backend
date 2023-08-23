@@ -1059,10 +1059,10 @@
   resolved "https://registry.yarnpkg.com/@types/tcp-port-used/-/tcp-port-used-1.0.1.tgz#4e15eada6d9f63a5e6c5ef73348d6023f1e91157"
   integrity sha512-6pwWTx8oUtWvsiZUCrhrK/53MzKVLnuNSSaZILPy3uMes9QnTrLMar9BDlJArbMOjDcjb3QXFk6Rz8qmmuySZw==
 
-"@types/webpack@^5.28.1":
-  version "5.28.1"
-  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-5.28.1.tgz#c369baeff31abe54b45f7f29997e1623604198d6"
-  integrity sha512-qw1MqGZclCoBrpiSe/hokSgQM/su8Ocpl3L/YHE0L6moyaypg4+5F7Uzq7NgaPKPxUxUbQ4fLPLpDWdR27bCZw==
+"@types/webpack@^5.28.2":
+  version "5.28.2"
+  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-5.28.2.tgz#a4db514f30b1b593278fbae6d6f9654c3d53c4c8"
+  integrity sha512-7tcxyrIOd7WGimZIcWU6pDsNh2edGGnwYExOvd3l/nMvuxqwVPrFXnnTbYCnplqV9BJoU7Mo2mfFtiH8CNFvYw==
   dependencies:
     "@types/node" "*"
     tapable "^2.2.0"
