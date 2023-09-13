@@ -1056,10 +1056,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.1.tgz#20f18294f797f2209b5f65c8e3b5c8e8261d127c"
   integrity sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==
 
-"@types/tcp-port-used@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/tcp-port-used/-/tcp-port-used-1.0.1.tgz#4e15eada6d9f63a5e6c5ef73348d6023f1e91157"
-  integrity sha512-6pwWTx8oUtWvsiZUCrhrK/53MzKVLnuNSSaZILPy3uMes9QnTrLMar9BDlJArbMOjDcjb3QXFk6Rz8qmmuySZw==
+"@types/tcp-port-used@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/tcp-port-used/-/tcp-port-used-1.0.2.tgz#1a63df25488835e843dc167ca2d14fef55348c16"
+  integrity sha512-TEd/IvSora//3AXqt0XhuK2glye54uX2Iq/ZUKW2k/cWh9Zo2D6HUOC9m+Z/NNvtR3TtijYt5uo8wDn+P5aVxA==
 
 "@types/webpack@^5.28.2":
   version "5.28.2"
