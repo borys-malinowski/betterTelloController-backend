@@ -23,7 +23,7 @@
     "express": "^4.21.1",
     "lodash": "^4.17.11",
     "node-wifi": "^2.0.16",
-    "socket.io": "^4.8.0",
+    "socket.io": "^4.8.1",
     "socket.io-client": "^4.8.1",
     "waait": "^1.0.5"
   },
