@@ -39,7 +39,7 @@
     "@types/source-map-support": "^0.5.10",
     "@types/tcp-port-used": "^1.0.4",
     "@types/webpack": "^5.28.5",
-    "babel-loader": "^8.2.5",
+    "babel-loader": "^9.2.1",
     "cross-env": "^7.0.3",
     "husky": "^8.0.3",
     "jest": "^28.1.3",
