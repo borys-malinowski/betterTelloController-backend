@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@hookstate/core": "^4.0.2",
-    "cors": "^2.8.5",
+    "cors": "^2.8.6",
     "discord-api-types": "^0.38.37",
     "discord.js": "^13.8.1",
     "dotenv": "^16.6.0",
